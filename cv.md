@@ -7,8 +7,18 @@ My contact
 * [GitHub](https://github.com/krtnaa)
 * Discord: aoao7811
 ---
-About me
----
+# About me
 I am a beginner frontend developer.I hope I can successfully complete this course :).
+# Skills
+* HTML5
+# Code example
+```javascript
+function greet(name){
+return "Hello, " + name + " how are you doing today?"
+}
+```
+# Languages
+* English B1
+* Russian native
 
 
